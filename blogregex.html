@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>REGEX | Shubham</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navigation container">
+      <div class="nav-brand">Kumar Shubham</div>
+      <ul class="list-non-bullet nav-pills">
+        <li class="list-item-inline">
+          <a class="link" href="/">Home</a>
+        </li>
+        <li class="list-item-inline">
+          <a class="link" href="/projects.html">Projects</a>
+        </li>
+        <li class="list-item-inline link-active">
+          <a class="link" href="/blogs.html">Blogs</a>
+        </li>
+      </ul>
+    </nav>
+    <article class="container container-center section ow">
+      <h1>Introduction To Regular Expression</h1>
+      <small>20th June,2020 - 2 min read</small>
+      <ul class="list">
+        <li>Commonly known as RegEx</li>
+        <li>
+          RegEx is a string containing some special characters. These characters
+          taken together forms a pattern.
+        </li>
+        <li>
+          This RegEx is used to check whether that particular pattern exists in
+          any given string or not.
+        </li>
+      </ul>
+      <hr />
+      <p>
+        <strong
+          >Python module <em> re </em>is imported to use Regular Expression
+          methods</strong
+        >
+      </p>
+      <h2>RegEx Functions</h2>
+
+      <ol>
+        <li>
+          findall
+          <ul>
+            <li>
+              It returns a list containing all matches or an empty list in case
+              of no match.
+            </li>
+            <li>It takes two parameter i.e, RegEx and String respectively.</li>
+          </ul>
+        </li>
+        <li>
+          Search
+          <ul>
+            <li>It Search the string for one match.</li>
+            <li>
+              In case of match, it returns a MATCH OBJECT of only first match.
+            </li>
+            <li>In Case of no match, it returns None.</li>
+            <li>It takes two parameter i.e,RegEx and String respectively.</li>
+          </ul>
+        </li>
+        <li>
+          Split
+          <ul>
+            <li>
+              It returns a list where the string has been split at each match.
+            </li>
+            <li>It takes 2-3 parameters.</li>
+            <li>First two parameters are RegEx and String respectively.</li>
+            <li>
+              The Third parameter is an optional parameter,known as maxsplit
+              parameter and takes int value as input.
+            </li>
+            <li>
+              This max split parameter controls maximum number of split can be
+              performed on the String.
+            </li>
+          </ul>
+        </li>
+        <li>
+          Sub
+          <ul>
+            <li>It looks for a match then replace it with new text string.</li>
+            <li>It takes 3-4 parameters,4th parameter is optional.</li>
+            <li>
+              First 3 parameters are RegEx, newText and string respectively.
+            </li>
+            <li>
+              Fourth parameter is known as count parameter and takes int value
+              as input.
+            </li>
+            <li>
+              This count parameter controls the maximum number of replacement
+              performed on the string.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </article>
+
+    <footer class="footer">
+      <div class="footer-header">Connect to me</div>
+      <ul class="social-links list-non-bullet">
+        <li class="list-item-inline">
+          <a class="link" href="https://www.instagram.com/k_shubham07/">
+            Instagram
+          </a>
+        </li>
+        <li class="list-item-inline">
+          <a class="link" href="https://github.com/Shubham-503">Github </a>
+        </li>
+        <li class="list-item-inline">
+          <a
+            class="link"
+            href="https://www.linkedin.com/in/kumar-shubham-83947a196/"
+          >
+            LinkedIN
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>
