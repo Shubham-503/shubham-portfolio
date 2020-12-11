@@ -145,7 +145,7 @@ hr {
 }
 
 .tech > img {
-  width: 100px;
+  width: 6.25rem;
   object-fit: contain;
   margin: 1em;
 }
