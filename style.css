@@ -138,6 +138,17 @@ hr {
   background-color: var(--off-white);
 }
 
+/*  */
+.tech {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tech > img {
+  width: 100px;
+  object-fit: contain;
+  margin: 1em;
+}
 /** footers **/
 
 .footer {
