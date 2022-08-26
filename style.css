@@ -14,6 +14,9 @@ body {
   font-size: 1.3rem;
 }
 
+a {
+  display: inline-block;
+}
 /* hr {
   margin: 2rem 0rem;
 } */
