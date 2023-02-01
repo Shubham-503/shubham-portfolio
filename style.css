@@ -178,3 +178,12 @@ a {
 .footer img {
   width: 60px;
 }
+
+.proj-section{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  gap:.5rem;
+  cursor: pointer;
+}
