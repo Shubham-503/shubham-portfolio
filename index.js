@@ -15,7 +15,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>Trending-1</p>
-    <a href="https://trending-1.netlify.app/" class="link link-primary"
+    <a href="https://trending-1.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -34,7 +34,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>Restaurant-home-page-2</p>
-    <a href="https://restaurant-2.netlify.app/" class="link link-primary"
+    <a href="https://restaurant-home-page-2.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -53,7 +53,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>Justice-3</p>
-    <a href="https://justice-3.netlify.app/" class="link link-primary"
+    <a href="https://justice-3.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -73,7 +73,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Digital-Marketing-4</p>
     <a
-      href="https://digital-marketing-4.netlify.app/"
+      href="https://digital-marketing-4.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -93,7 +93,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>Crypto-5</p>
-    <a href="https://crypto-5.netlify.app/" class="link link-primary"
+    <a href="https://crypto-5.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -113,7 +113,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Plant-Home-Page-6</p>
     <a
-      href="https://plant-home-page-6.netlify.app/"
+      href="https://plant-home-page-6-lemon.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -134,7 +134,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Product-Home-Page-7</p>
     <a
-      href="https://Product-Home-07.netlify.app/"
+      href="https://product-home-page-7.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -154,7 +154,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>Web-Design-8</p>
-    <a href="https://web-design-8.netlify.app//" class="link link-primary"
+    <a href="https://web-design-8.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -174,7 +174,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Developer-LandingPage-9</p>
     <a
-      href="https://developer-landingpage-9.netlify.app/"
+      href="https://developer-landing-page-9.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -195,7 +195,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Interior-Design-LandingPage-10</p>
     <a
-      href="https://interior-design-landingpage-10.netlify.app/"
+      href="https://interior-design-landing-page-10.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -216,7 +216,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Hosting-LandingPage-11</p>
     <a
-      href="https://hosting-landingpage-11.netlify.app/"
+      href="https://hosting-landing-page-11.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -237,7 +237,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Business-Design-LandingPage-12</p>
     <a
-      href="https://Business-Design-LandingPage-12.netlify.app/"
+      href="https://business-design-landing-page-12.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -257,7 +257,7 @@ HtmlProj.addEventListener("click",()=>{
       />
     </div>
     <p>SAAS-LandingPage-13</p>
-    <a href="https://saas-13.netlify.app/" class="link link-primary"
+    <a href="https://saas-landing-page-13.vercel.app/" class="link link-primary"
       >Live Link</a
     >
     <br />
@@ -277,7 +277,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>Dance-LandingPage-14</p>
     <a
-      href="https://Dance-LandingPage-14.netlify.app/"
+      href="https://dance-landing-page-14.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -298,7 +298,7 @@ HtmlProj.addEventListener("click",()=>{
     </div>
     <p>ProductDesign-LandingPage-15</p>
     <a
-      href="https://ProductDesign-LandingPage-15.netlify.app/"
+      href="https://product-design-landing-page-15-gamma.vercel.app/"
       class="link link-primary"
       >Live Link</a
     >
@@ -324,7 +324,7 @@ tailwindProj.addEventListener("click",()=>{
     />
   </div>
   <p>Paytm-UI-Clone</p>
-  <a href="https://epaytmui.netlify.app/" class="link link-primary"
+  <a href="https://paytm-ui-clone.vercel.app/" class="link link-primary"
     >Live Link</a
   >
   <br />
@@ -343,7 +343,7 @@ tailwindProj.addEventListener("click",()=>{
     />
   </div>
   <p>Shopify-UI-Clone</p>
-  <a href="https://shopify-store-ui.netlify.app/" class="link link-primary"
+  <a href="https://shopify-ui-clone-six.vercel.app/" class="link link-primary"
     >Live Link</a
   >
   <br />
@@ -362,7 +362,7 @@ tailwindProj.addEventListener("click",()=>{
     />
   </div>
   <p>Rode Clone</p>
-  <a href="https://rode-store.netlify.app/" class="link link-primary"
+  <a href="https://rode-ui-clone-blue.vercel.app/" class="link link-primary"
     >Live Link</a
   >
   <br />
@@ -382,15 +382,15 @@ ReactProj.addEventListener("click",()=>{
     <div class="pj-img-div">
       <img
         src="./images/projectsImg/React-email-client.png"
-        alt="Musicial Prokect image"
+        alt="Musical Project image"
         class="pj-img"
       />
     </div>
     <p>Email-client App</p>
-    <!-- <a href="https://trending-1.netlify.app/" class="link link-primary"
+     <a href="https://email-client-beige-ten.vercel.app/" class="link link-primary"
       >Live Link</a
     >
-    <br /> -->
+    <br />
     <a
       href="https://github.com/Shubham-503/email-client"
       class="link link-secondary"
@@ -406,10 +406,10 @@ ReactProj.addEventListener("click",()=>{
       />
     </div>
     <p>Music Player using React</p>
-    <!-- <a href="https://trending-1.netlify.app/" class="link link-primary"
+     <a href="https://musical-eta.vercel.app/" class="link link-primary"
       >Live Link</a
     >
-    <br /> -->
+    <br />
     <a href="https://github.com/Shubham-503/musical" class="link link-secondary"
       >VIEW SOURCE ON GITHUB</a
     >
